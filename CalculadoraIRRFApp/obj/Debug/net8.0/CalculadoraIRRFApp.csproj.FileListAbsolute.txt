@@ -1,0 +1,15 @@
+/workspaces/4.A---Checkpoint-4---Classes-na-pr-tica-C-lculo-de-IRRF-/CalculadoraIRRFApp/bin/Debug/net8.0/CalculadoraIRRFApp
+/workspaces/4.A---Checkpoint-4---Classes-na-pr-tica-C-lculo-de-IRRF-/CalculadoraIRRFApp/bin/Debug/net8.0/CalculadoraIRRFApp.deps.json
+/workspaces/4.A---Checkpoint-4---Classes-na-pr-tica-C-lculo-de-IRRF-/CalculadoraIRRFApp/bin/Debug/net8.0/CalculadoraIRRFApp.runtimeconfig.json
+/workspaces/4.A---Checkpoint-4---Classes-na-pr-tica-C-lculo-de-IRRF-/CalculadoraIRRFApp/bin/Debug/net8.0/CalculadoraIRRFApp.dll
+/workspaces/4.A---Checkpoint-4---Classes-na-pr-tica-C-lculo-de-IRRF-/CalculadoraIRRFApp/bin/Debug/net8.0/CalculadoraIRRFApp.pdb
+/workspaces/4.A---Checkpoint-4---Classes-na-pr-tica-C-lculo-de-IRRF-/CalculadoraIRRFApp/obj/Debug/net8.0/CalculadoraIRRFApp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/4.A---Checkpoint-4---Classes-na-pr-tica-C-lculo-de-IRRF-/CalculadoraIRRFApp/obj/Debug/net8.0/CalculadoraIRRFApp.AssemblyInfoInputs.cache
+/workspaces/4.A---Checkpoint-4---Classes-na-pr-tica-C-lculo-de-IRRF-/CalculadoraIRRFApp/obj/Debug/net8.0/CalculadoraIRRFApp.AssemblyInfo.cs
+/workspaces/4.A---Checkpoint-4---Classes-na-pr-tica-C-lculo-de-IRRF-/CalculadoraIRRFApp/obj/Debug/net8.0/CalculadoraIRRFApp.csproj.CoreCompileInputs.cache
+/workspaces/4.A---Checkpoint-4---Classes-na-pr-tica-C-lculo-de-IRRF-/CalculadoraIRRFApp/obj/Debug/net8.0/CalculadoraIRRFApp.sourcelink.json
+/workspaces/4.A---Checkpoint-4---Classes-na-pr-tica-C-lculo-de-IRRF-/CalculadoraIRRFApp/obj/Debug/net8.0/CalculadoraIRRFApp.dll
+/workspaces/4.A---Checkpoint-4---Classes-na-pr-tica-C-lculo-de-IRRF-/CalculadoraIRRFApp/obj/Debug/net8.0/refint/CalculadoraIRRFApp.dll
+/workspaces/4.A---Checkpoint-4---Classes-na-pr-tica-C-lculo-de-IRRF-/CalculadoraIRRFApp/obj/Debug/net8.0/CalculadoraIRRFApp.pdb
+/workspaces/4.A---Checkpoint-4---Classes-na-pr-tica-C-lculo-de-IRRF-/CalculadoraIRRFApp/obj/Debug/net8.0/CalculadoraIRRFApp.genruntimeconfig.cache
+/workspaces/4.A---Checkpoint-4---Classes-na-pr-tica-C-lculo-de-IRRF-/CalculadoraIRRFApp/obj/Debug/net8.0/ref/CalculadoraIRRFApp.dll
